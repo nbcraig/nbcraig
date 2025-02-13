@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on honing my **C#/.NET skills**
 
-- 🌱 Looking to add on my skill set in the sumiltaneously:
+- 🌱 Looking to add on my skill set:
     - Front-End Development with React/Angular
     - Developing cloud native apps and services on the Azure platform
     - DevOps fluency
